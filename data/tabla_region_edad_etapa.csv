@@ -1,0 +1,14 @@
+region,grupo_edad,etapa_vih_sida,ENO - Count
+Región\ de\ Atacama Región\ de\ Coquimbo,10-14 15-19 20-24,Desconocido SIDA VIH,continuous
+meta,meta,meta,
+Región de Atacama,15-19,SIDA,6
+Región de Atacama,15-19,VIH,23
+Región de Atacama,20-24,Desconocido,2
+Región de Atacama,20-24,SIDA,26
+Región de Atacama,20-24,VIH,105
+Región de Coquimbo,15-19,Desconocido,8
+Región de Coquimbo,15-19,SIDA,6
+Región de Coquimbo,15-19,VIH,57
+Región de Coquimbo,20-24,Desconocido,12
+Región de Coquimbo,20-24,SIDA,83
+Región de Coquimbo,20-24,VIH,248

@@ -1,0 +1,14 @@
+etapa_vih_sida,sexo,region,ENO - Count
+Desconocido SIDA VIH,*** hombre mujer,Región\ de\ Atacama Región\ de\ Coquimbo,continuous
+meta,meta,meta,
+Desconocido,hombre,Región de Atacama,2
+Desconocido,hombre,Región de Coquimbo,16
+Desconocido,mujer,Región de Coquimbo,4
+SIDA,hombre,Región de Atacama,26
+SIDA,hombre,Región de Coquimbo,77
+SIDA,mujer,Región de Atacama,6
+SIDA,mujer,Región de Coquimbo,12
+VIH,hombre,Región de Atacama,99
+VIH,hombre,Región de Coquimbo,255
+VIH,mujer,Región de Atacama,29
+VIH,mujer,Región de Coquimbo,50

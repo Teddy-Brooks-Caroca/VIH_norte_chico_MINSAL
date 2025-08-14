@@ -1,0 +1,11 @@
+grupo_edad,region,via_transmision,ENO - Count
+10-14 15-19 20-24,Región\ de\ Atacama Región\ de\ Coquimbo,ACCIDENTE\ LABORAL\ (SÓLO\ PARA\ TRABAJADORES\ DE\ SALUD\ Y\ RESCATE) DESCONOCIDO RELACIONES\ SEXUALES TATUAJES TRANSFUSIÓN\ DE\ SANGRE\ /\ HEMODERIVADO USO\ DE\ DROGA VERTICAL\ (DE\ MADRE\ A\ HIJO(A)),continuous
+meta,meta,meta,
+15-19,Región de Atacama,DESCONOCIDO,3
+15-19,Región de Atacama,RELACIONES SEXUALES,26
+15-19,Región de Coquimbo,DESCONOCIDO,6
+15-19,Región de Coquimbo,RELACIONES SEXUALES,65
+20-24,Región de Atacama,DESCONOCIDO,10
+20-24,Región de Atacama,RELACIONES SEXUALES,123
+20-24,Región de Coquimbo,DESCONOCIDO,14
+20-24,Región de Coquimbo,RELACIONES SEXUALES,329

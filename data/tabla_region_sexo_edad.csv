@@ -1,0 +1,11 @@
+region,sexo,grupo_edad,ENO - Count
+Región\ de\ Atacama Región\ de\ Coquimbo,*** hombre mujer,10-14 15-19 20-24,continuous
+meta,meta,meta,
+Región de Atacama,hombre,15-19,21
+Región de Atacama,hombre,20-24,106
+Región de Atacama,mujer,15-19,8
+Región de Atacama,mujer,20-24,27
+Región de Coquimbo,hombre,15-19,51
+Región de Coquimbo,hombre,20-24,297
+Región de Coquimbo,mujer,15-19,20
+Región de Coquimbo,mujer,20-24,46
